@@ -1,0 +1,11 @@
+###
+### Adicionar isso na pasta 
+### assets/config/ do seu servidor
+###
+
+accesskey: -------
+secretkey: -------
+region: -------
+
+## usado para autenticacao
+bancodedados: -------
